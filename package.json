@@ -1,0 +1,16 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node src/bot.js"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "telebot": "^1.4.1",
+    "telegraf": "^4.8.6"
+  },
+  "devDependencies": {
+    "@types/telebot": "^1.2.4"
+  }
+}
